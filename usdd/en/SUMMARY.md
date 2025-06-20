@@ -16,6 +16,10 @@
 
 * [System Architecture](system-architecture/system-architecture.md)
 
+***
+
+* [Smart Allocator](smart-allocator.md)
+
 ## USER GUIDE
 
 * [Getting Started](user-guide/getting-started.md)
@@ -48,10 +52,6 @@
   * [Example Process](developers/liquidation-and-auction/example-process.md)
   * [Benefits](developers/liquidation-and-auction/benefits.md)
 * [Oracle](developers/oracle.md)
-
-***
-
-* [Smart Allocator](smart-allocator.md)
 
 ## GOVERNANCE
 
