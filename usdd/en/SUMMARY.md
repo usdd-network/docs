@@ -49,6 +49,10 @@
   * [Benefits](developers/liquidation-and-auction/benefits.md)
 * [Oracle](developers/oracle.md)
 
+***
+
+* [Smart Allocator](smart-allocator.md)
+
 ## GOVERNANCE
 
 * [Overview](governance/overview.md)
