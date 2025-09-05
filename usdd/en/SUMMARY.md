@@ -6,7 +6,7 @@
 * [What is USDDOLD?](introduction/what-is-usddold.md)
 * [Why upgrade USDD?](introduction/why-upgrade-usdd.md)
 * [Core Features](introduction/core-features.md)
-* [Collateral Asset Contract Addresses](introduction/collateral-asset-contract-addresses.md)
+* [Contract Addresses](introduction/collateral-asset-contract-addresses.md)
 
 ***
 
