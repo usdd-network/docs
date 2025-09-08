@@ -20,7 +20,7 @@ Security is our top priority. USDD's smart contracts have undergone rigorous sec
 
 #### Exchange
 
-* Date:Jan 24, 2025
+* Date: Jan 24, 2025
 * Auditor: ChainSecurity
 * Network: Tron
 
@@ -28,7 +28,7 @@ Security is our top priority. USDD's smart contracts have undergone rigorous sec
 
 #### USDD - Ethereum
 
-* Date:Sept 2, 2025
+* Date: Sept 2, 2025
 * Auditor: CertiK
 * Network: Ethereum
 
