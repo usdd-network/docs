@@ -52,5 +52,3 @@ If your Vault is well-collateralized and not at risk of liquidation, you may wit
 * Consider repaying USDD or adding more collateral if your Vault's ratio approaches the Min. Collateral Ratio.
 
 These management tools allow you to maintain flexibility while keeping your Vault secure and optimized for your financial goals.
-
-\

@@ -2,7 +2,9 @@
 
 To ensure transparency and security, all collateral backing USDD is held in publicly verifiable smart contracts. Users can check the contract addresses on blockchain explorers to verify the funds at any time. This guarantees that the collateral remains untouched and fully secure.
 
-Collateral Contract Addresses by vault:
+🌐 Tron Network
+
+Collateral Contracts
 
 * TRX-A: [TJ1VWPvFVq7sVsN7J7dWJVZz4SLT14qRUr](https://tronscan.org/#/contract/TJ1VWPvFVq7sVsN7J7dWJVZz4SLT14qRUr)
 * TRX-B: [TGQKnHDQNyc3QeHJ7YxH8wggdg89UVXyvX](https://tronscan.org/#/contract/TGQKnHDQNyc3QeHJ7YxH8wggdg89UVXyvX)
@@ -11,4 +13,22 @@ Collateral Contract Addresses by vault:
 * USDT-A: [TDUkQbjrXs6xUbxGCLknWwJHxVTdysXBhy](https://tronscan.org/#/contract/TDUkQbjrXs6xUbxGCLknWwJHxVTdysXBhy)
 * PSM-USDT: [TSUYvQ5tdd3DijCD1uGunGLpftHuSZ12sQ](https://tronscan.org/#/contract/TSUYvQ5tdd3DijCD1uGunGLpftHuSZ12sQ)
 
-For real-time verification, visit the TRONSCAN and input the contract address to check the fund balances.
+PSM Contracts
+
+* PSM-USDT: [TSUYvQ5tdd3DijCD1uGunGLpftHuSZ12sQ](https://tronscan.org/#/contract/TSUYvQ5tdd3DijCD1uGunGLpftHuSZ12sQ)
+* USDTJoin: [TBXW4hS5KYjjbJXDpnrPf4zhkLwrpUjbyz](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
+
+
+
+🌐 Ethereum Network
+
+PSM Contracts
+
+* PSM-USDT: [0xce355440c00014a229bbec030a2b8f8eb45a2897](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
+* USDTJoin: [0x217e42ceb2eae9ecb788fdf0e31c806c531760a3](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
+* PSM-USDC: [0x12d0351f68035a41d13fc8324562e2d51b7a3b93](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
+* USDCJoin: [0x9a7e1b324060db7342aea08c0dc56f55ced6f519](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
+
+
+
+For real-time verification, visit the [**TRONSCAN**](https://tronscan.org/#/)**/**[**Etherscan**](https://etherscan.io/) and input the contract address to check the fund balances.

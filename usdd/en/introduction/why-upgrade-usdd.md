@@ -8,8 +8,4 @@ The upgrade to USDD aims to enhance its security, decentralization, and overall 
 
 This upgrade also introduces more community-driven features, empowering users to actively participate in governance and decision-making, ensuring that the protocol evolves based on collective input.
 
-
-
 Additionally, the upgrade strengthens the system's transparency and efficiency, with improved collateral management and liquidity solutions. The new version of USDD is designed to provide users with a more secure and adaptable stablecoin, allowing for easier integration with decentralized finance (DeFi) platforms, and ensuring long-term growth and sustainability of the ecosystem.
-
-\

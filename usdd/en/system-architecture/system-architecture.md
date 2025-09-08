@@ -9,6 +9,7 @@ USDD employs an over-collateralization model to safeguard its stability and redu
 * Over-Collateralization: Users are required to maintain a collateral ratio above the minimum threshold, varying by asset based on its volatility.
 * Multi-Collateral Support: Diversification of supported collateral types minimizes risk and promotes flexibility for users.
 * Real-Time Monitoring: The system continuously monitors collateral ratios, alerting users to potential risks and ensuring prompt responses.
+* Multichain：A fully decentralized stablecoin supporting TRON, Ethereum, and other major blockchains.
 
 ## Liquidation Mechanism
 
@@ -27,7 +28,7 @@ The USDD platform utilizes an efficient auction system to optimize the managemen
 
 ## Peg Stability Module (PSM)
 
-The PSM (Peg Stability Module) is designed to maintain the peg of stablecoins through a fixed 1:1 exchange rate (e.g., between USDD and USDT). Users can exchange one stablecoin (such as USDT) for USDD directly, with no slippage. This process involves:
+The PSM (Peg Stability Module) is designed to maintain the peg of stablecoins through a fixed 1:1 exchange rate (e.g., between USDD and USDT). Users can exchange one stablecoin (such as USDT and USDC) for USDD directly, with no slippage. This process involves:
 
 * Minting: When users exchange USDT for USDD, the system mints new USDD and sends it to the user while depositing the USDT into the reserve pool.
 * Redeeming: When users exchange USDD for USDT, the system burns the USDD and releases the corresponding USDT from the reserve pool.

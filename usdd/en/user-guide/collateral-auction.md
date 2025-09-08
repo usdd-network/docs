@@ -33,6 +33,4 @@ When a Vault is liquidated, its collateral is moved into an auction process. Use
    1. If your bid is successful, you will acquire the collateral, which can be sold or used as desired. Any collateral obtained from auctions is stored in the liquidation auction account and can be withdrawn to the winning bidders’ wallet.
    2. The actual profit will depend on the market price when you decide to sell the collateral.
 
-Participating in auctions is an excellent way to acquire assets at competitive prices and contribute to the USDD ecosystem.&#x20;
-
-\
+Participating in auctions is an excellent way to acquire assets at competitive prices and contribute to the USDD ecosystem.

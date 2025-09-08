@@ -46,5 +46,3 @@ The auction system helps redistribute liquidated collateral fairly and efficient
 * Bid on liquidated collateral to acquire assets at competitive prices.
 * View auction details such as Auction ID, debt amount, available collateral, and current bid price.
 * Participate in auctions to support system stability while potentially earning a profit.
-
-\

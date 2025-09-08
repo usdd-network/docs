@@ -1,37 +1,9 @@
 # Deployment Addresses
 
+### Tron Mainnet
 
+<table><thead><tr><th width="256.30859375">USDD</th><th>TCrEVahRbhDFB6uRXEWUg7wkptXvg47GKs</th></tr></thead><tbody><tr><td>USDD Join</td><td>TUajR7CbXU6hX8n3XtNkitFAD25JvP99K6</td></tr><tr><td>Jug</td><td>TWttvCqVmiLip7PL8Aut2Hi37swqv7EmYd</td></tr><tr><td>Dog</td><td>TCwYKcDj8c5Te9hjj3UokcxhpY6skFoXnG</td></tr><tr><td>Vow</td><td>TXLfZmQtLtLxWYNL2fxhw34JNGHB2EKeSU</td></tr><tr><td>Flap</td><td>TP2eYpkrgk7sLAts5tvzsFxHiDH8PmQcuH</td></tr><tr><td>Flop</td><td>TX6CM8K1FgS2nnTEjLsKW6TAVSipFXHh5C</td></tr><tr><td>Spot</td><td>TU8Z8CeUd7pnXSMHTNqRgK6Qxxxyzsba1n</td></tr><tr><td>End</td><td>TXhepqfva4WvcK6HapedmzwDjdZv8KoY6p</td></tr><tr><td>ESM</td><td>TVKZKa1LDadTPm2AoAW7hp9BtdScK4gSk8</td></tr><tr><td>Pause</td><td>TNq6E9XsQfrzqVwam67LApZQx1omsj8dyW</td></tr><tr><td>PauseProxy</td><td>TE6RxGgQuD6J1faw9mZxtbHGDqcKh8DvKU</td></tr><tr><td>ProxyRegistry</td><td>THuVWkvAikvSqmoZXHMUQJAcocsgFr4wuk</td></tr><tr><td>CDP Manager</td><td>TDDWjmQaquEtUn1Pa8wCd8dfWFPdQLGPYL</td></tr><tr><td>ProxyActions</td><td>TEk9usYZsunkc5oYijyMte6sGurspik2Js</td></tr><tr><td>GovActionsProxy</td><td>TXzhj9Xh8xfzerjinRyM5TfoBL7Cw5hk5d</td></tr><tr><td>PIP_TRX</td><td>TVsQxikpttN15u7vcjXKeVrtYRWbrqgPbH</td></tr><tr><td>PIP_USDT</td><td>TMhsJiXUrT5eueuH1cq6SdvQEBt4YjKLfx</td></tr><tr><td>JOIN_TRX_A</td><td>TJ1VWPvFVq7sVsN7J7dWJVZz4SLT14qRUr</td></tr><tr><td>CLIP_TRX_A</td><td>TK9Ng6QqNVvyhWcWAiEasZ1HqE7bxgNayA</td></tr><tr><td>JOIN_TRX_B</td><td>TGQKnHDQNyc3QeHJ7YxH8wggdg89UVXyvX</td></tr><tr><td>CLIP_TRX_B</td><td>TWmmZ44tN6UBAD4iEsoZo5qSAZ64E4HDZZ</td></tr><tr><td>JOIN_TRX_C</td><td>TPUPPLTYLdbW4jxwD5g2T7ystxsR9HL2mt</td></tr><tr><td>CLIP_TRX_C</td><td>TMZTbwpvs7VjTJ7qjwh4EMkB5ahZ5tUJeM</td></tr><tr><td>JOIN_USDT_A</td><td>TDUkQbjrXs6xUbxGCLknWwJHxVTdysXBhy</td></tr><tr><td>CLIP_USDT_A</td><td>TKvNF7aJtU2gUncR64MCdDoaWqrnHpriSL</td></tr><tr><td>JOIN_PSM_USDT_A</td><td>TSUYvQ5tdd3DijCD1uGunGLpftHuSZ12sQ</td></tr><tr><td>CLIP_PSM_USDT_A</td><td>T9yEgaPQT9Z6jsF1Rd2nisf1bpwpXNAFqE</td></tr><tr><td>MCD_PSM_USDT_A</td><td>TBXW4hS5KYjjbJXDpnrPf4zhkLwrpUjbyz</td></tr><tr><td>USDD Migration</td><td>TQrq2p1aoAkNK94q3Q69ubJcv5nQ9y675R</td></tr></tbody></table>
 
-### Mainnet
+### Ethereum Mainnet
 
-| USDD               | TCrEVahRbhDFB6uRXEWUg7wkptXvg47GKs |
-| ------------------ | ---------------------------------- |
-| USDD Join          | TUajR7CbXU6hX8n3XtNkitFAD25JvP99K6 |
-| Jug                | TWttvCqVmiLip7PL8Aut2Hi37swqv7EmYd |
-| Dog                | TCwYKcDj8c5Te9hjj3UokcxhpY6skFoXnG |
-| Vow                | TXLfZmQtLtLxWYNL2fxhw34JNGHB2EKeSU |
-| Flap               | TP2eYpkrgk7sLAts5tvzsFxHiDH8PmQcuH |
-| Flop               | TX6CM8K1FgS2nnTEjLsKW6TAVSipFXHh5C |
-| Spot               | TU8Z8CeUd7pnXSMHTNqRgK6Qxxxyzsba1n |
-| End                | TXhepqfva4WvcK6HapedmzwDjdZv8KoY6p |
-| ESM                | TVKZKa1LDadTPm2AoAW7hp9BtdScK4gSk8 |
-| Pause              | TNq6E9XsQfrzqVwam67LApZQx1omsj8dyW |
-| PauseProxy         | TE6RxGgQuD6J1faw9mZxtbHGDqcKh8DvKU |
-| ProxyRegistry      | THuVWkvAikvSqmoZXHMUQJAcocsgFr4wuk |
-| CDP Manager        | TDDWjmQaquEtUn1Pa8wCd8dfWFPdQLGPYL |
-| ProxyActions       | TEk9usYZsunkc5oYijyMte6sGurspik2Js |
-| GovActionsProxy    | TXzhj9Xh8xfzerjinRyM5TfoBL7Cw5hk5d |
-| PIP\_TRX           | TVsQxikpttN15u7vcjXKeVrtYRWbrqgPbH |
-| PIP\_USDT          | TMhsJiXUrT5eueuH1cq6SdvQEBt4YjKLfx |
-| JOIN\_TRX\_A       | TJ1VWPvFVq7sVsN7J7dWJVZz4SLT14qRUr |
-| CLIP\_TRX\_A       | TK9Ng6QqNVvyhWcWAiEasZ1HqE7bxgNayA |
-| JOIN\_TRX\_B       | TGQKnHDQNyc3QeHJ7YxH8wggdg89UVXyvX |
-| CLIP\_TRX\_B       | TWmmZ44tN6UBAD4iEsoZo5qSAZ64E4HDZZ |
-| JOIN\_TRX\_C       | TPUPPLTYLdbW4jxwD5g2T7ystxsR9HL2mt |
-| CLIP\_TRX\_C       | TMZTbwpvs7VjTJ7qjwh4EMkB5ahZ5tUJeM |
-| JOIN\_USDT\_A      | TDUkQbjrXs6xUbxGCLknWwJHxVTdysXBhy |
-| CLIP\_USDT\_A      | TKvNF7aJtU2gUncR64MCdDoaWqrnHpriSL |
-| JOIN\_PSM\_USDT\_A | TSUYvQ5tdd3DijCD1uGunGLpftHuSZ12sQ |
-| CLIP\_PSM\_USDT\_A | T9yEgaPQT9Z6jsF1Rd2nisf1bpwpXNAFqE |
-| MCD\_PSM\_USDT\_A  | TBXW4hS5KYjjbJXDpnrPf4zhkLwrpUjbyz |
-| USDD Migration     | TQrq2p1aoAkNK94q3Q69ubJcv5nQ9y675R |
+<table><thead><tr><th width="259.75390625">USDD</th><th>0x4f8e5de400de08b164e7421b3ee387f461becd1a</th></tr></thead><tbody><tr><td>USDD Join</td><td>0x983dfef6d71862d809e239845da5a959492f63b8</td></tr><tr><td>Jug</td><td>0xdb218163fe160fedf0c702c37124e8c194e99329</td></tr><tr><td>Dog</td><td>0x9681604090395e835ff54187f638ded8dc983cbf</td></tr><tr><td>Vow</td><td>0xf085edd75c1ab4fda0c3bd49b264a4a113d06f3b</td></tr><tr><td>Flap</td><td>0x0b4adb8d896520eb3fd4789b73463614dcf71b03</td></tr><tr><td>Flop</td><td>0xfb38af74eae1e315a45af5ae11a44ccd1da12bcb</td></tr><tr><td>Spot</td><td>0x8c4c758152da3e04b95b5eaca75585d79013c6b0</td></tr><tr><td>End</td><td>0xa9f0cd86e0a011d41693d1a748a8127877c8b054</td></tr><tr><td>ESM</td><td>0xe4089b868f111ffaf9717d6df8d2c2fe6e698f55</td></tr><tr><td>Pause</td><td>0xca277750ecd2b0707a7ccef2a78ec2f33b5fc7f7</td></tr><tr><td>PauseProxy</td><td>0xf60cf7d4330f115f9e51ff0d56d23f95f0f10aee</td></tr><tr><td>ProxyRegistry</td><td>0x8be6b814beb37e8028258777af0ec6648a2a908e</td></tr><tr><td>CDP Manager</td><td>0xb5b08e58e804e5937f56b1e633cf85abbd269127</td></tr><tr><td>ProxyActions</td><td>0xb80751ef88d07fa33ee4fc0c6f8b4b6c6c31e708</td></tr><tr><td>GovActionsProxy</td><td>0x3dba111255d3888c723242320595588754cf493e</td></tr><tr><td>JOIN_PSM_USDT_A</td><td>0x217e42ceb2eae9ecb788fdf0e31c806c531760a3</td></tr><tr><td>MCD_PSM_USDT_A</td><td>0xce355440c00014a229bbec030a2b8f8eb45a2897</td></tr><tr><td>JOIN_PSM_USDC_A</td><td>0x9a7e1b324060db7342aea08c0dc56f55ced6f519</td></tr><tr><td>MCD_PSM_USDC_A</td><td>0x12d0351f68035a41d13fc8324562e2d51b7a3b93</td></tr></tbody></table>
