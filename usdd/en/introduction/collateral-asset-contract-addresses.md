@@ -6,6 +6,7 @@ To ensure transparency and security, all collateral backing USDD is held in publ
 
 Collateral Contracts
 
+* USDD: [TCrEVahRbhDFB6uRXEWUg7wkptXvg47GKs](https://tronscan.org/#/address/TCrEVahRbhDFB6uRXEWUg7wkptXvg47GKs)
 * TRX-A: [TJ1VWPvFVq7sVsN7J7dWJVZz4SLT14qRUr](https://tronscan.org/#/contract/TJ1VWPvFVq7sVsN7J7dWJVZz4SLT14qRUr)
 * TRX-B: [TGQKnHDQNyc3QeHJ7YxH8wggdg89UVXyvX](https://tronscan.org/#/contract/TGQKnHDQNyc3QeHJ7YxH8wggdg89UVXyvX)
 * TRX-C: [TPUPPLTYLdbW4jxwD5g2T7ystxsR9HL2mt](https://tronscan.org/#/contract/TPUPPLTYLdbW4jxwD5g2T7ystxsR9HL2mt)
@@ -24,6 +25,7 @@ PSM Contracts
 
 PSM Contracts
 
+* USDD: [0x4f8e5DE400DE08B164E7421B3EE387f461beCD1A](https://etherscan.io/address/0x4f8e5de400de08b164e7421b3ee387f461becd1a)
 * PSM-USDT: [0xce355440c00014a229bbec030a2b8f8eb45a2897](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
 * USDTJoin: [0x217e42ceb2eae9ecb788fdf0e31c806c531760a3](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
 * PSM-USDC: [0x12d0351f68035a41d13fc8324562e2d51b7a3b93](https://app.gitbook.com/u/9ELtxZ7pWkcoYJhnIj5HHLGKnDt2)
