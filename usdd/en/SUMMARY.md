@@ -31,6 +31,7 @@
 * [Collateral Auction](user-guide/collateral-auction.md)
 * [PSM (Peg Stability Module)](user-guide/psm-peg-stability-module.md)
 * [Migrate](user-guide/migrate.md)
+* [Getting sUSDD](user-guide/getting-susdd.md)
 
 ## DEVELOPERS
 
