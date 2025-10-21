@@ -13,6 +13,6 @@ USDD stands out as a next-generation stablecoin built on principles of decentral
 5. **Freeze-Free Transactions**\
    USDD guarantees that no centralized authority can freeze user funds, providing users with full control of their assets at all times.
 6. **Multichain**\
-   A fully decentralized stablecoin supporting TRON, Ethereum, and other major blockchains.
+   A fully decentralized stablecoin supporting TRON, Ethereum, BNB Chain.
 
 These core features make USDD a robust and adaptable stablecoin, designed to empower its users while maintaining the highest standards of stability, security, and decentralization.

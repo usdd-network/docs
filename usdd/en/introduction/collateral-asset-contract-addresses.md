@@ -32,6 +32,22 @@ PSM Contracts
 * PSM-USDC: [0x12d0351f68035a41d13fc8324562e2d51b7a3b93](https://etherscan.io/address/0x12d0351f68035a41d13fc8324562e2d51b7a3b93)
 * USDCJoin:[ 0x9a7e1b324060db7342aea08c0dc56f55ced6f519](https://etherscan.io/address/0x9a7e1b324060db7342aea08c0dc56f55ced6f519)
 
+USDD Savings
+
+* sUSDD: [0xC5d6A7B61d18AfA11435a889557b068BB9f29930](https://etherscan.io/token/0xc5d6a7b61d18afa11435a889557b068bb9f29930)
 
 
-For real-time verification, visit the [**TRONSCAN**](https://tronscan.org/#/)**/**[**Etherscan**](https://etherscan.io/) and input the contract address to check the fund balances.
+
+🌐 BNB Chain Network
+
+PSM Contracts
+
+* USDD: [0x45E51bc23D592EB2DBA86da3985299f7895d66Ba](https://bscscan.com/address/0x45e51bc23d592eb2dba86da3985299f7895d66ba)
+* PSM-USDT: [0x939d3FB56cd12d68CaA1125cc57a8d2391F7Ee29](https://bscscan.com/address/0x939d3fb56cd12d68caa1125cc57a8d2391f7ee29)
+* USDTJoin: [0xe229FdA620B8a9B98ef184830EE3063F0F86B790](https://bscscan.com/address/0xe229fda620b8a9b98ef184830ee3063f0f86b790)
+
+USDD Savings
+
+* sUSDD: [0x8bA9dA757d1D66c58b1ae7e2ED6c04087348A82d](https://bscscan.com/address/0x8ba9da757d1d66c58b1ae7e2ed6c04087348a82d)
+
+For real-time verification, visit the blockchain explorer and enter the contract address to check the fund balances.
