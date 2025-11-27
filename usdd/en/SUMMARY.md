@@ -19,6 +19,7 @@
 ***
 
 * [Smart Allocator](smart-allocator.md)
+* [sUSDD Mechanism](susdd-mechanism.md)
 
 ## USER GUIDE
 
