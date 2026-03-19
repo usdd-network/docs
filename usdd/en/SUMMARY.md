@@ -30,7 +30,7 @@
 * [Risk Alert](user-guide/risk-alert.md)
 * [Liquidation](user-guide/liquidation.md)
 * [Collateral Auction](user-guide/collateral-auction.md)
-* [PSM (Peg Stability Module)](user-guide/psm-peg-stability-module.md)
+* [Swap (PSM)](user-guide/psm-peg-stability-module.md)
 * [Migrate](user-guide/migrate.md)
 * [USDD Savings](user-guide/usdd-savings.md)
 

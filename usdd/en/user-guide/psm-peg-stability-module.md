@@ -1,10 +1,10 @@
-# PSM (Peg Stability Module)
+# Swap (PSM)
 
 To perform stablecoin-to-USDD conversions, navigate to the PSM page.
 
 <figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
-The PSM allows seamless, zero-fee exchanges between USDD and supported stablecoins, starting with USDT or USDC. Support for additional stablecoins will be added over time to enhance flexibility and accessibility for users.
+Swap (PSM) is USDD’s built-in fixed-rate swap feature that lets you convert between USDD and supported stablecoins at a predictable 1:1 rate. It’s designed to keep USDD stable while giving users a simple, transparent way to move in and out of USDD.
 
 #### How to Use the PSM
 
@@ -16,4 +16,4 @@ The PSM allows seamless, zero-fee exchanges between USDD and supported stablecoi
     <figure><img src="../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 3. **Check Availability:** The "Available" section displays the quantity of the target token currently available for exchange. Ensure your swap amount does not exceed the available limit.\\
 
-The PSM feature is designed for ease of use, offering fast and secure conversions without slippage or additional charges, making it an essential tool for users seeking to maintain the 1:1 USDD peg while interacting with other stablecoins.
+The PSM feature is designed for ease of use, offering fast and secure conversions without slippage, making it an essential tool for users seeking to maintain the 1:1 USDD peg while interacting with other stablecoins.
