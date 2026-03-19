@@ -79,5 +79,3 @@ We strive to resolve disputes amicably. If disputes cannot be resolved informall
 ***
 
 By accessing and using the Interface, you acknowledge that you have read, understood, and agreed to this Agreement.
-
-\

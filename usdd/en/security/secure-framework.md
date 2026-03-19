@@ -22,5 +22,3 @@ The USDD protocol is designed with a robust security framework to ensure the saf
   * Governance minimizes the risk of unilateral decisions that could compromise security.
 
 By maintaining a proactive approach to risk assessment, the USDD protocol ensures its resilience and reliability in a dynamic blockchain environment.
-
-\

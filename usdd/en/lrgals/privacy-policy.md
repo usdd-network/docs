@@ -82,5 +82,3 @@ We will process your personal data only for the period necessary to achieve the 
 #### 11. Changes to This Privacy Policy
 
 We reserve the right to modify this Privacy Policy at any time. If we make changes, we will update the "Last Modified" date at the beginning of the policy. Your continued use of the Interface after modifications constitutes acceptance of the revised terms.
-
-\
